@@ -104,3 +104,5 @@
 [13Apr2025 17:02:31.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [asein: Killed asein]
 [13Apr2025 17:04:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [asein: Set the time to 6000]
 [13Apr2025 17:04:13.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [asein: Set the time to 18000]
+[13Apr2025 17:14:49.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Remyd[/127.205.249.251:37131] logged in with entity id 3992 at (-52.5, 65.0, 57.5)
+[13Apr2025 17:14:49.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Remyd joined the game

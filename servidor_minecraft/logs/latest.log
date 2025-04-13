@@ -96,3 +96,11 @@
 [13Apr2025 16:49:25.508] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22e81713[id=<null>,name=asein,properties={},legacy=false] (/127.93.171.212:36637) lost connection: Disconnected
 [13Apr2025 16:50:22.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asein[/127.93.171.212:50143] logged in with entity id 228 at (-47.5, 66.0, 63.5)
 [13Apr2025 16:50:22.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asein joined the game
+[13Apr2025 16:59:25.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asein has made the advancement [Monster Hunter]
+[13Apr2025 17:00:07.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set asein's game mode to Creative Mode
+[13Apr2025 17:01:46.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made asein a server operator
+[13Apr2025 17:01:51.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [asein: Set the time to 1000]
+[13Apr2025 17:02:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asein was killed
+[13Apr2025 17:02:31.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [asein: Killed asein]
+[13Apr2025 17:04:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [asein: Set the time to 6000]
+[13Apr2025 17:04:13.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [asein: Set the time to 18000]
